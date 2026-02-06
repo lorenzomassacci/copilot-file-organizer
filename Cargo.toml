@@ -1,7 +1,15 @@
 [package]
+<<<<<<< HEAD
 name = "claudio-file-organizer"
+=======
+name = "copilot-file-organizer"
+>>>>>>> main
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
 dirs = "5.0"
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
